@@ -16,6 +16,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     vim \
     build-essential \
     libgomp1 \
+    htop \
     && curl -fsSL https://deb.nodesource.com/setup_22.x | bash - \
     && apt-get install -y nodejs \
     && rm -rf /var/lib/apt/lists/*
