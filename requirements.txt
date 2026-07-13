@@ -1,0 +1,59 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+tqdm
+joblib
+threadpoolctl
+
+# Gradient boosting
+xgboost
+lightgbm
+catboost
+
+# TabPFN v3
+tabpfn
+
+# AutoML / hyperparameter tuning
+optuna
+optuna-integration
+hyperopt
+
+# Feature engineering & preprocessing
+feature-engine
+category-encoders
+imbalanced-learn
+
+# Model interpretation
+shap
+lime
+eli5
+
+# Neural / deep learning helpers
+pytorch-tabnet
+transformers
+datasets
+accelerate
+einops
+
+# MLflow & experiment tracking
+mlflow
+wandb
+
+# Jupyter
+jupyterlab
+ipywidgets
+jupyter-contrib-nbextensions
+
+# Utilities
+polars
+pyarrow
+h5py
+pyyaml
+python-dotenv
+rich
+typer
